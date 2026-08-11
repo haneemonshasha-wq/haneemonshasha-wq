@@ -52,3 +52,32 @@ class SovereignEngine:
 
     def rule(self):
         return "Numbers and data yield only to those who possess true mastery."
+
+---
+
+### 🏰 **Domains of Control (Featured Projects)**
+
+> *"We do not merely write software; we architect unstoppable systems."*
+
+| Domain | Arsenal | Objective | Status |
+| :--- | :--- | :--- | :--- |
+| **Data Governance** | Python, Pandas | Converting chaotic raw data into pure actionable power. | `DOMINATED` |
+| **System Logic** | Python OOP | Engineering rock-solid, scalable backend architectures. | `DEPLOYED` |
+| **AI Foundations** | Math, Algorithms | Unlocking the core intelligence behind predictive models. | `IN PROGRESS` |
+
+---
+
+### ⚡ **Rules of the Sovereign Engine**
+
+* **Zero Redundancy:** Code must be sharp, clean, and lethal to bugs.
+* **Absolute Efficiency:** Execution speed and logical clarity over noise and fluff.
+* **Continuous Conquest:** Stagnation is defeat; daily commits are mandatory.
+
+---
+
+### 📡 **Direct Command Line**
+
+*To discuss high-level architecture or deploy solutions:*
+
+[![Email](https://img.shields.io/badge/Direct_Line-000000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_Command-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com)
