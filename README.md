@@ -23,48 +23,32 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haneemonshasha-wq&show_icons=true&locale=en&layout=compact" alt="haneemonshasha-wq" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haneemonshasha-wq&show_icons=true&theme=dark&locale=en" alt="haneemonshasha-wq" /></p>
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+
+<div align="center">
+
+<!-- Dynamic Dark Red/Black Waving Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8b0000&height=220&section=header&text=Master%20H&fontSize=50&fontColor=ffffff&animation=twinkling&desc=The%20Silent%20Power%20in%20Code&descSize=20&descAlign=50" width="100%" />
+
+<br/>
+
+<!-- Dark Knight Visual -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3A5ZmJ5cnEwcDV3Z3Q3N3d5aGN0bm1pcnpsYjBqMmxzcWRzcWpsOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1f3uM4zsAqBv5mK8R/giphy.gif" width="420" alt="Dark Knight"/>
+
+### ⚔️ **Hany | Master H** ⚔️
+*Dominance in Code.. Absolute Control Over Data.*
+
+---
+
 </div>
 
-###
+### 🔮 **Logic of Power**
 
-<p data-importer="text" align="left">Hello World!!</p>
+```python
+class SovereignEngine:
+    def __init__(self):
+        self.identity = "Master H"
+        self.domain = "AI & Python Architecture"
+        self.status = "Executing Absolute Power"
 
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
-
-###
+    def rule(self):
+        return "Numbers and data yield only to those who possess true mastery."
