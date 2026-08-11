@@ -88,5 +88,5 @@ class SovereignEngine:
 
 *To discuss high-level architecture or deploy solutions:*
 
-[![Email](https://img.shields.io/badge/Direct_Line-000000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Direct_Line-000000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:hanhane123456@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn_Command-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com)
