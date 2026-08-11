@@ -13,7 +13,7 @@
 
 ### 👑 **The Sovereign Identity**
 
-> *"At 16, while the world distracts itself with noise, I command logic and architect algorithms. Age is irrelevant—executing total control over data is the only metric that matters."*
+> *"I am now 16 years old, while the world is distracted by noise and gossip. Back then, I was focused on logic, algorithms, development, and hard work. Age is not an excuse to stop acquiring knowledge,  This age is the first step in building the future. Whoever doesn't make the most of their time will lose a lot in the future, and I don't accept loss. (If you don't own You will own )"*
 
 ---
 
