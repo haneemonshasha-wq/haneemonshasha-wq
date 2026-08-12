@@ -17,28 +17,30 @@
 
 ---
 
+<div align="center">
+
+  <!-- البانر الضبابي: ظهور الاسم من الفراغ المظلم بأمر fadeIn -->
+  <a href="https://github.com/haneemonshasha-wq">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,25:050507,50:180309,75:080204,100:000000&height=190&section=header&text=%E2%9A%94%EF%B8%8F%20%20M%20A%20S%20T%20E%20R%20%20%C2%B7%20%20H%20%20%E2%9A%94%EF%B8%8F&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=46" width="100%" />
+  </a>
+
+  <!-- تفاصيل الكود والتشخيص التكتيكي (Terminal Code Layer) -->
+  <a href="https://github.com/haneemonshasha-wq">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=1000&color=8B0000&center=true&vCenter=true&width=850&height=30&lines=%3E_++SYSTEM.STATUS++%3A%3A++SOVEREIGN_CORE_ONLINE;%3E_++CORE.LOGIC+++++%3A%3A++NEVER_COMPROMISE;%3E_++EXECUTION++++++%3A%3A++SILENT_AND_ABSOLUTE;" />
+  </a>
+
+  <!-- سطر العبارات السينمائية الغامضة بخط Cinzel الفخم -->
+  <a href="https://github.com/haneemonshasha-wq">
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=18&pause=1500&color=B22222&center=true&vCenter=true&width=850&height=40&lines=%F0%9F%91%81%EF%B8%8F+EMERGING+FROM+THE+VOID...+THE+SHADOWS+OBEY.;%E2%9A%94%EF%B8%8F+ARCHITECTING+UNBREAKABLE+SYSTEMS+IN+SILENCE.;%E2%9D%96+YOU+HAVE+ENTERED+THE+REALM+OF+MASTER+H." />
+  </a>
+
+</div>
+
 * ⚔️ **Status:** `Active Supremacy at 16 Years Old`
 * 🔮 **Core Mastery:** `Python Architecture | Advanced Data Engineering | Applied AI Mathematics`
 * 🛡️ **Current Mission:** `Forging Production-Grade Systems & Manipulating Complex Datasets`
 * ⚡ **The Rule:** `Noise is for the weak; performance is absolute.`
 
-<div align="center">
-
-  <!-- الكارت الرئيسي الفخم -->
-  <a href="https://github.com/haneemonshasha-wq">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:4a0000,100:ff0000&height=240&section=header&text=MASTER%20H&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=SOVEREIGN%20CODE%20ARCHITECT%20%7C%20AI%20%26%20PYTHON&descSize=18&descAlign=50&descAlignY=64" width="100%" />
-  </a>
-
-  <br />
-
-  <!-- سطر الكتابة التفاعلي المتحرك -->
-  <a href="https://github.com/haneemonshasha-wq">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=FF2E2E&center=true&vCenter=true&width=650&height=45&lines=Building+Python+Systems+%26+Automated+Logic...;Either+Drive+Or+Be+Driven.;Mastering+Work+Above+All+Else.;Welcome+To+The+Realm%2C+Visitors." />
-  </a>
-
-</div>
-
-  
 ### ⚔️ **Hany | Master H** ⚔️
 *Dominance in Code.. Absolute Control Over Data.*
 
