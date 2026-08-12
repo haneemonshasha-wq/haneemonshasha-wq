@@ -13,9 +13,15 @@
 <h1 align="center">👋, I'm Hany_or_Master(H)</h1>
 <h3 align="center">🤖Aspiring AI Engineer | Python & Data Science👁️‍🗨️ $the Deep$👁️‍🗨️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haneemonshasha-wq&label=Profile%20views&color=0e75b6&style=flat" alt="hanhane123456" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanhane123456" alt="hanhane123456" /></a> </p>
+<div align="center">
+
+  <!-- بطاقة الإنستغرام المتوهجة والمباشرة -->
+  <a href="https://instagram.com/ar_ex10x09" target="_blank">
+    <img src="https://raw.githubusercontent.com/haneemonshasha-wq/haneemonshasha-wq/main/instagram_card.svg" alt="Master H Instagram" width="450px" />
+  </a>
+
+</div>
 
 ###⚔️ 👑 ⚔️ **The Sovereign Identity**
 
