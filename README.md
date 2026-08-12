@@ -1,15 +1,21 @@
 <div align="center">
 
-## ⚔️⚔️ Welcome to the Realm⚔️⚔️
+  <!-- البانر المتحرك المباشر من ملف master_h_banner.svg -->
+  <a href="https://github.com/haneemonshasha-wq">
+    <img src="https://raw.githubusercontent.com/haneemonshasha-wq/haneemonshasha-wq/main/master_h_banner.svg" alt="Master H Sovereign Realm" width="100%" />
+  </a>
+
+</div>
+
 
 </div>
 
 <h1 align="center">👋, I'm Hany_or_Master(H)</h1>
 <h3 align="center">🤖Aspiring AI Engineer | Python & Data Science👁️‍🗨️ $the Deep$👁️‍🗨️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haneemonshasha-wq&label=Profile%20views&color=0e75b6&style=flat" alt="haneemonshasha-wq" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haneemonshasha-wq&label=Profile%20views&color=0e75b6&style=flat" alt="hanhane123456" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haneemonshasha-wq" alt="haneemonshasha-wq" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanhane123456" alt="hanhane123456" /></a> </p>
 
 ###⚔️ 👑 ⚔️ **The Sovereign Identity**
 
@@ -20,7 +26,7 @@
 <div align="center">
 
   <!-- البانر الضبابي: ظهور الاسم من الفراغ المظلم بأمر fadeIn -->
-  <a href="https://github.com/haneemonshasha-wq">
+  <a href="https://github.com/hanhane123456">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,25:050507,50:180309,75:080204,100:000000&height=190&section=header&text=%E2%9A%94%EF%B8%8F%20%20M%20A%20S%20T%20E%20R%20%20%C2%B7%20%20H%20%20%E2%9A%94%EF%B8%8F&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=46" width="100%" />
   </a>
 
