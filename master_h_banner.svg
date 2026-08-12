@@ -1,0 +1,176 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 280" width="100%" height="280">
+  <defs>
+    <!-- Dark Void & Crimson Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#000000" />
+      <stop offset="50%" stop-color="#0a0003" />
+      <stop offset="100%" stop-color="#000000" />
+    </linearGradient>
+
+    <!-- Heavy Crimson Fog Gradients -->
+    <radialGradient id="heavyFogCenter" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ff0033" stop-opacity="0.55" />
+      <stop offset="40%" stop-color="#8b0000" stop-opacity="0.3" />
+      <stop offset="80%" stop-color="#2a0008" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="heavyFogSide" cx="20%" cy="80%" r="60%">
+      <stop offset="0%" stop-color="#990000" stop-opacity="0.4" />
+      <stop offset="60%" stop-color="#1a0004" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Intense Red Glow Filter -->
+    <filter id="crimsonGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur1" />
+      <feGaussianBlur stdDeviation="3" result="blur2" />
+      <feMerge>
+        <feMergeNode in="blur1" />
+        <feMergeNode in="blur2" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@800;900&amp;family=Fira+Code:wght@700&amp;display=swap');
+
+      /* Moving Crimson Fog Layer */
+      .fog-main {
+        animation: fogPulse 6s ease-in-out infinite alternate;
+        transform-origin: center;
+      }
+      .fog-drift {
+        animation: fogDrift 10s ease-in-out infinite alternate;
+        transform-origin: center;
+      }
+
+      @keyframes fogPulse {
+        0% { transform: scale(0.8) translateY(10px); opacity: 0.3; }
+        50% { transform: scale(1.3) translateY(-5px); opacity: 0.85; }
+        100% { transform: scale(1.0) translateY(0px); opacity: 0.5; }
+      }
+
+      @keyframes fogDrift {
+        0% { transform: translateX(-30px) scale(0.9); opacity: 0.2; }
+        100% { transform: translateX(30px) scale(1.2); opacity: 0.6; }
+      }
+
+      /* Void Emergence Animation */
+      .emerge-group {
+        animation: emergeFromVoid 8s ease-in-out infinite;
+        transform-origin: 475px 140px;
+      }
+
+      @keyframes emergeFromVoid {
+        0% {
+          opacity: 0;
+          transform: scale(0.92) translateY(15px);
+          filter: blur(20px);
+        }
+        15% {
+          opacity: 0.2;
+          transform: scale(0.96) translateY(8px);
+          filter: blur(10px);
+        }
+        30% {
+          opacity: 1;
+          transform: scale(1) translateY(0px);
+          filter: blur(0px);
+        }
+        75% {
+          opacity: 1;
+          transform: scale(1) translateY(0px);
+          filter: blur(0px);
+        }
+        88% {
+          opacity: 0.2;
+          transform: scale(1.03) translateY(-8px);
+          filter: blur(12px);
+        }
+        100% {
+          opacity: 0;
+          transform: scale(1.06) translateY(-15px);
+          filter: blur(22px);
+        }
+      }
+
+      /* Ornate Frame Pulse */
+      .frame-glow {
+        stroke: #ff0033;
+        stroke-width: 2.5;
+        animation: framePulse 3s ease-in-out infinite alternate;
+      }
+      @keyframes framePulse {
+        0% { opacity: 0.3; filter: drop-shadow(0 0 2px #ff0033); }
+        100% { opacity: 0.9; filter: drop-shadow(0 0 14px #ff0033); }
+      }
+
+      /* Text Aesthetics */
+      .top-banner-title {
+        font-family: 'Cinzel', serif;
+        font-weight: 800;
+        font-size: 15px;
+        fill: #d4af37;
+        letter-spacing: 7px;
+        text-anchor: middle;
+      }
+
+      .main-throne-title {
+        font-family: 'Cinzel', serif;
+        font-weight: 900;
+        font-size: 46px;
+        letter-spacing: 16px;
+        fill: #FFFFFF;
+        text-anchor: middle;
+        animation: textRedGlow 3s ease-in-out infinite alternate;
+      }
+
+      @keyframes textRedGlow {
+        0% { fill: #ffffff; text-shadow: 0 0 10px #ff0033; }
+        100% { fill: #fff0f2; text-shadow: 0 0 30px #ff0033, 0 0 60px #8b0000; }
+      }
+
+      .sub-terminal {
+        font-family: 'Fira Code', monospace;
+        font-weight: 700;
+        font-size: 14px;
+        fill: #ff2e4c;
+        letter-spacing: 4px;
+        text-anchor: middle;
+      }
+
+      .cursor {
+        animation: blink 1s step-end infinite;
+      }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <!-- Background Layer -->
+  <rect width="100%" height="100%" fill="url(#bgGrad)" rx="14" />
+
+  <!-- Animated Crimson Fog Background Layers -->
+  <circle cx="475" cy="140" r="380" fill="url(#heavyFogCenter)" class="fog-main" />
+  <circle cx="200" cy="200" r="300" fill="url(#heavyFogSide)" class="fog-drift" />
+  <circle cx="750" cy="100" r="280" fill="url(#heavyFogSide)" class="fog-drift" />
+
+  <!-- Gothic / Cyber Corner Accents -->
+  <rect x="20" y="20" width="910" height="240" rx="10" fill="none" stroke="#220008" stroke-width="2" />
+  <path d="M 20,60 L 20,20 L 60,20" fill="none" class="frame-glow" />
+  <path d="M 930,60 L 930,20 L 890,20" fill="none" class="frame-glow" />
+  <path d="M 20,220 L 20,260 L 60,260" fill="none" class="frame-glow" />
+  <path d="M 930,220 L 930,260 L 890,260" fill="none" class="frame-glow" />
+
+  <!-- Main Animated Group (Throne Emergence) -->
+  <g class="emerge-group">
+    <!-- Top Royal Header -->
+    <text x="475" y="75" class="top-banner-title">⚔️ WELCOME TO THE THRONE OF INTELLIGENCE ⚔️</text>
+
+    <!-- Main Name Emergence -->
+    <text x="475" y="145" class="main-throne-title" filter="url(#crimsonGlow)">M A S T E R   H</text>
+
+    <!-- Terminal Code Logic Subtitle -->
+    <text x="475" y="200" class="sub-terminal">&gt;_ SOVEREIGN CORE ACTIVE  |  UNTOUCHABLE LOGIC<tspan class="cursor">_</tspan></text>
+  </g>
+</svg>
