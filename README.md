@@ -5,13 +5,13 @@
 </div>
 
 <h1 align="center">👋, I'm Hany_or_Master(H)</h1>
-<h3 align="center">🤖Aspiring AI Engineer | Python & Data Science Enthusiast 🚀</h3>
+<h3 align="center">🤖Aspiring AI Engineer | Python & Data Science👁️‍🗨️ $the Deep$👁️‍🗨️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haneemonshasha-wq&label=Profile%20views&color=0e75b6&style=flat" alt="haneemonshasha-wq" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haneemonshasha-wq" alt="haneemonshasha-wq" /></a> </p>
 
-### 👑 **The Sovereign Identity**
+###⚔️ 👑 ⚔️ **The Sovereign Identity**
 
 > *"I am now 16 years old, while the world is distracted by noise and gossip. Back then, I was focused on logic, algorithms, development, and hard work. Age is not an excuse to stop acquiring knowledge,  This age is the first step in building the future. Whoever doesn't make the most of their time will lose a lot in the future, and I don't accept loss. (If you don't own You will own )"*
 
