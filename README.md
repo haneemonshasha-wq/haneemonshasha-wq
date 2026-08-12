@@ -22,27 +22,23 @@
 * 🛡️ **Current Mission:** `Forging Production-Grade Systems & Manipulating Complex Datasets`
 * ⚡ **The Rule:** `Noise is for the weak; performance is absolute.`
 
-<a href="https://github.com/haneemonshasha-wq">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8b0000&height=220&section=header&text=Master%20H&fontSize=50&fontColor=ffffff&animation=twinkling&desc=The%20Silent%20Power%20in%20Code&descSize=20&descAlign=50" width="100%" />
-</a>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haneemonshasha-wq&show_icons=true&locale=en&layout=compact" alt="haneemonshasha-wq" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haneemonshasha-wq&show_icons=true&theme=dark&locale=en" alt="haneemonshasha-wq" /></p>
-
 <div align="center">
 
-<!-- Dynamic Dark Red/Black Waving Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8b0000&height=220&section=header&text=Master%20H&fontSize=50&fontColor=ffffff&animation=twinkling&desc=The%20Silent%20Power%20in%20Code&descSize=20&descAlign=50" width="100%" />
+  <!-- الكارت الرئيسي الفخم -->
+  <a href="https://github.com/haneemonshasha-wq">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:4a0000,100:ff0000&height=240&section=header&text=MASTER%20H&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=SOVEREIGN%20CODE%20ARCHITECT%20%7C%20AI%20%26%20PYTHON&descSize=18&descAlign=50&descAlignY=64" width="100%" />
+  </a>
 
-<br/>
+  <br />
 
-<!-- Dark Knight Visual -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3A5ZmJ5cnEwcDV3Z3Q3N3d5aGN0bm1pcnpsYjBqMmxzcWRzcWpsOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1f3uM4zsAqBv5mK8R/giphy.gif" width="420" alt="Dark Knight"/>
+  <!-- سطر الكتابة التفاعلي المتحرك -->
+  <a href="https://github.com/haneemonshasha-wq">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=FF2E2E&center=true&vCenter=true&width=650&height=45&lines=Building+Python+Systems+%26+Automated+Logic...;Either+Drive+Or+Be+Driven.;Mastering+Work+Above+All+Else.;Welcome+To+The+Realm%2C+Visitors." />
+  </a>
 
+</div>
+
+  
 ### ⚔️ **Hany | Master H** ⚔️
 *Dominance in Code.. Absolute Control Over Data.*
 
