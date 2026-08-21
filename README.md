@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- البانر المتحرك المباشر من ملف master_h_banner.svg -->
+
   <a href="https://github.com/haneemonshasha-wq">
     <img src="https://raw.githubusercontent.com/haneemonshasha-wq/haneemonshasha-wq/main/master_h_banner.svg" alt="Master H Sovereign Realm" width="100%" />
   </a>
@@ -13,6 +13,53 @@
 <h1 align="center">👋, I'm Hany_or_Master(H)</h1>
 <h3 align="center">🤖Aspiring AI Engineer | Python & Data Science👁️‍🗨️ $the Deep$👁️‍🗨️</h3>
 
+<div align="center">
+
+  <!-- هيدر متحرك باللون الأسود والذهبي -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=⚜️%20ARCHITECT%20⚜️&fontSize=50&fontColor=D4AF37&animation=fadeIn&fontAlignY=38" width="100%" />
+
+  <br>
+
+  <h3><b>⚔️ ARCHITECTING UNBREAKABLE SYSTEMS IN SILENCE ⚔️</b></h3>
+
+  <!-- نص متحرك باللون الذهبي -->
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=Python+%7C+Artificial+Intelligence;Building+Custom+AI+%26+Chatbots;Dominating+The+Digital+Shadows;" alt="Typing SVG" />
+  </p>
+
+  <br>
+
+  <!-- 🔻🔻🔻 (1) استبدل USERNAME_HERE باسم حسابك في السطر التالي 🔻🔻🔻 -->
+  <img src="https://komarev.com/ghpvc/?username=haneemonshasha-wq&color=D4AF37&style=for-the-badge&label=IMPERIAL+VISITORS+%E2%9A%94%EF%B8%8F" alt="Visitors" />
+
+  <br><br>
+  <hr>
+  <br>
+
+  <!-- شارات اللغات والتقنيات بالذهبي والأسود -->
+  <h3><b>🏛️ THE IMPERIAL ARSENAL</b></h3>
+
+  <p>
+    <img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=D4AF37" />
+    <img src="https://img.shields.io/badge/Artificial_Intelligence-050505?style=for-the-badge&logo=openai&logoColor=D4AF37" />
+    <img src="https://img.shields.io/badge/TensorFlow-050505?style=for-the-badge&logo=tensorflow&logoColor=D4AF37" />
+    <img src="https://img.shields.io/badge/Linux-050505?style=for-the-badge&logo=linux&logoColor=D4AF37" />
+    <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=D4AF37" />
+  </p>
+
+  <br><br>
+
+  <!-- 🔻🔻🔻 (2) استبدل USERNAME_HERE باسم حسابك في السطرين التاليين للبطاقات 🔻🔻🔻 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_HERE&show_icons=true&theme=dark&bg_color=050505&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_HERE&layout=compact&theme=dark&bg_color=050505&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&hide_border=false" width="48%" />
+
+  <br><br>
+  <hr>
+  <br>
+
+  <i>"Power is not declared. It is built in the dark and demonstrated in the light."</i>
+
+</div>
 
 <div align="center">
 
