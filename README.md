@@ -150,3 +150,4 @@ class EnterpriseValueEngine:
 # Core Engine Activation
 engine = EnterpriseValueEngine(data_scale_tb=500.0, manual_cost_usd=1_000_000.0)
 print(engine.execute_sovereign_optimization())
+```
