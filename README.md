@@ -15,55 +15,55 @@
 
 <div align="center">
 
-  <!-- هيدر متحرك باللون الأسود والذهبي -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=⚜️%20ARCHITECT%20⚜️&fontSize=50&fontColor=D4AF37&animation=fadeIn&fontAlignY=38" width="100%" />
+
+<div align="center">
+
+
+<div align="center">
+
+  <!-- هيدر متحرك أسود وذهبي -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=⚜️%20ARCHITECT%20⚜️&fontSize=45&fontColor=D4AF37&animation=fadeIn" width="100%" />
+
+  <br><br>
+
+  <!-- العنوان الإمبراطوري -->
+  <h1>⚔️ IMPERIAL ARCHITECT ⚔️</h1>
+  <p><i>Architecting Unbreakable Systems In Silence</i></p>
 
   <br>
 
-  <h3><b>⚔️ ARCHITECTING UNBREAKABLE SYSTEMS IN SILENCE ⚔️</b></h3>
+  <!-- النص المتحرك بالذهبي -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=Python+%7C+Artificial+Intelligence;Building+Custom+AI+%26+Chatbots;Dominating+The+Digital+Shadows;" alt="Typing SVG" />
 
-  <!-- نص متحرك باللون الذهبي -->
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=Python+%7C+Artificial+Intelligence;Building+Custom+AI+%26+Chatbots;Dominating+The+Digital+Shadows;" alt="Typing SVG" />
-  </p>
+  <br><br>
 
-  <br>
-
-  <!-- 🔻🔻🔻 (1) استبدل USERNAME_HERE باسم حسابك في السطر التالي 🔻🔻🔻 -->
+  <!-- عداد الزوار الذهبي لحسابك -->
   <img src="https://komarev.com/ghpvc/?username=haneemonshasha-wq&color=D4AF37&style=for-the-badge&label=IMPERIAL+VISITORS+%E2%9A%94%EF%B8%8F" alt="Visitors" />
 
   <br><br>
   <hr>
   <br>
 
-  <!-- شارات اللغات والتقنيات بالذهبي والأسود -->
-  <h3><b>🏛️ THE IMPERIAL ARSENAL</b></h3>
+  <!-- شارات المهارات والتقنيات الفخمة -->
+  <h2>🏛️ THE IMPERIAL ARSENAL</h2>
 
   <p>
-    <img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=D4AF37" />
-    <img src="https://img.shields.io/badge/Artificial_Intelligence-050505?style=for-the-badge&logo=openai&logoColor=D4AF37" />
-    <img src="https://img.shields.io/badge/TensorFlow-050505?style=for-the-badge&logo=tensorflow&logoColor=D4AF37" />
-    <img src="https://img.shields.io/badge/Linux-050505?style=for-the-badge&logo=linux&logoColor=D4AF37" />
-    <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=D4AF37" />
+    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=D4AF37" />
+    <img src="https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge&logo=openai&logoColor=D4AF37" />
+    <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=D4AF37" />
+    <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=D4AF37" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D4AF37" />
   </p>
 
-  <br><br>
-
-  <!-- 🔻🔻🔻 (2) استبدل USERNAME_HERE باسم حسابك في السطرين التاليين للبطاقات 🔻🔻🔻 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_HERE&show_icons=true&theme=dark&bg_color=050505&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_HERE&layout=compact&theme=dark&bg_color=050505&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&hide_border=false" width="48%" />
-
-  <br><br>
+  <br>
   <hr>
   <br>
 
-  <i>"Power is not declared. It is built in the dark and demonstrated in the light."</i>
+  <blockquote>"Power is not declared. It is built in the dark and demonstrated in the light."</blockquote>
 
 </div>
 
-<div align="center">
-
-  <!-- بطاقة الإنستغرام المتوهجة والمباشرة -->
+  <!-- بطاقة الإنستغرام المتوهجة وة -->
   <a href="https://instagram.com/ar_ex10x09" target="_blank">
     <img src="https://raw.githubusercontent.com/haneemonshasha-wq/haneemonshasha-wq/main/instagram_card.svg" alt="Master H Instagram" width="450px" />
   </a>
